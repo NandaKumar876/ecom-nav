@@ -28,7 +28,9 @@ Refer to the official Vite React TypeScript template for integration details:
 
 https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts
 
+
 Key Features
+
 
 Fast development environment powered by Vite
 
