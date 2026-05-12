@@ -31,7 +31,6 @@ https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts
 
 Key Features
 
-
 Fast development environment powered by Vite
 
 Instant module updates using Hot Module Replacement
